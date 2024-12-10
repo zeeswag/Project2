@@ -1,9 +1,9 @@
 {
   "ProjectOne":
   [
-      {"RestID": 1,"FoodImg":"https://raw.githubusercontent.com/zeeswag/Project2/main/food1.heic","RestName":"Tilly's Food Kitchen","RestLoc":"Chantilly, VA","RestRec":"Chicken Ramen"},
-      {"RestID": 2, "FoodImg": "https://raw.githubusercontent.com/zeeswag/Project2/main/food2.heic","RestName":"North Italia","RestLoc":"Washington, Dc","RestRec":"Pesto Pasta"},
-      {"RestID" : 3, "FoodImg": "https://raw.githubusercontent.com/zeeswag/Project2/main/food3.heic","RestName":"Little Miner Taco","RestLoc":"DMV (Food Truck)","RestRec":"Birria Tacos"}
+      {"RestID": 1,"FoodImg":"https://raw.githubusercontent.com/zeeswag/Project2/main/food1.heic","RestName":"Tilly's Food Kitchen","RestLoc":"Chantilly, VA","RestRec":"Chicken Ramen","YelpSite":"https://m.yelp.com"},
+      {"RestID": 2, "FoodImg": "https://raw.githubusercontent.com/zeeswag/Project2/main/food2.heic","RestName":"North Italia","RestLoc":"Washington, Dc","RestRec":"Pesto Pasta","YelpSite":"https://m.yelp.com"},
+      {"RestID" : 3, "FoodImg": "https://raw.githubusercontent.com/zeeswag/Project2/main/food3.heic","RestName":"Little Miner Taco","RestLoc":"DMV (Food Truck)","RestRec":"Birria Tacos","YelpSite":"https://m.yelp.com"}
   ],
   "Status":"OK"
 }
